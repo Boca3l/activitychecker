@@ -39,7 +39,7 @@ print("Bot iniciado. Pressione Ctrl + C para encerrar.")
 try:
     # Espera 10 segundos antes de começar a enviar as mensagens
     print("Aguardando 10 segundos antes de iniciar...")
-    time.sleep(10)
+    time.sleep(5)
 
     while True:
         for mensagem in mensagens:
