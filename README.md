@@ -8,8 +8,8 @@ O objetivo deste bot é apenas ajudar quem quer "farmar" pontos e manter presen�
 
 ## Como instalar:
 
-1- Este script precisa que você tenha o Python instalado na sua máquina, você pode fazer o download na página oficial do [Python - Downloads](https://www.python.org/downloads/) baixando a versão mais atual do programa.
-2- Em seguida você deve executar o script, ele fará sozinho a instalação das dependências necessárias para a execução do bot (No caso apenas o [pyautogui](https://pyautogui.readthedocs.io/en/latest/) )
+1- Este script precisa que você tenha o Python instalado na sua máquina, você pode fazer o download na página oficial do [Python - Downloads](https://www.python.org/downloads/) baixando a versão mais atual do programa. <br>
+2- Em seguida você deve executar o script, ele fará sozinho a instalação das dependências necessárias para a execução do bot (No caso apenas o [pyautogui](https://pyautogui.readthedocs.io/en/latest/) )<br>
 3- Após a instalação das dependências o Python pode apresentar um erro, execute novamente e ele deve funcionar corretamente, caso não crie uma Issue com o log do erro ou se souber como resolver pode enviar um Pull Request, ambos serão mt bem vindos!
 
 ## Configurações:
